@@ -12,7 +12,7 @@ This is an abstract formalization of computability-theoretic results (recursion 
 - **Not** "This is the definitive minimal APS abstraction."
 - **Not** "Evolution discovered a breakthrough in computability theory."
 
-The value here is: clean formalization, abstraction repair, theorem engineering, and a good benchmark/example for [Darwin](https://github.com/novaspivack/Darwin).
+The value here is: clean formalization, abstraction repair, theorem engineering, and a good benchmark/example
 
 ## Interface caution
 

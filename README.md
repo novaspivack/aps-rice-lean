@@ -38,4 +38,4 @@ Requires Lean 4 (v4.29.0-rc3) and Mathlib v4.29.0-rc3.
 
 ## License
 
-MIT (or as specified in the repo)
+See [`LICENSE`](LICENSE): **PolyForm Noncommercial 1.0.0** for original code (noncommercial use with attribution; not OSI “open source”). Mathlib and other Lake deps: **upstream licenses**.

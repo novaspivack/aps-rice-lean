@@ -34,7 +34,7 @@ lake update
 lake build
 ```
 
-Requires Lean 4 (v4.29.0-rc3) and Mathlib v4.29.0-rc3.
+Requires Lean 4 (v4.29.1) and Mathlib v4.29.1.
 
 ## License
 

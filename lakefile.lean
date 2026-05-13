@@ -5,7 +5,7 @@ package «aps-rice» where
   -- Abstract formalization of recursion, Rice, halting for representability-restricted APS
 
 require mathlib from git
-  "https://github.com/leanprover-community/mathlib4.git" @ "v4.29.0-rc6"
+  "https://github.com/leanprover-community/mathlib4.git" @ "v4.29.1"
 
 @[default_target]
 lean_lib «APS» where

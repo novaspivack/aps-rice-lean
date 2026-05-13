@@ -3,3 +3,5 @@ build/
 *.olean
 *.ilean
 *.trace
+.DS_Store
+**/.DS_Store
